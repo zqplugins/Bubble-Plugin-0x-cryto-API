@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "compliance",
+        "2": "analytics",
+        "3": "technical"
+    },
+    "demo_page": "https://clasic-plugins.bubbleapps.io/version-test/0x_api",
+    "description": "This API will provide the user with the ability to \n\n- get Quote from swap\n- get price from swap\n- get Swap Sources\n- get Ordebooks\n- get Orderbooks Orders\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1667480744415x967574640331887900/giphy%20%2829%29.gif",
+    "license": "open_source",
+    "link": "https://zeroqode.com/",
+    "name": "0x cryto API",
+    "plugin_instructions": "1 - Install plugin\n2 - Use as data source the specific 0x API calls"
+}
